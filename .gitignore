@@ -1,0 +1,9 @@
+/assets/images
+/vendor
+.DS_Store
+.env
+.idea
+.vscode
+*.log
+/tmp
+
